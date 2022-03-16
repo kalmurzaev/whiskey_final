@@ -1,0 +1,11 @@
+.admina {
+  background-color: rgb(209, 209, 209);
+}
+
+.taw {
+  background-image: url(../../assets/image/taw.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 30vh;
+}

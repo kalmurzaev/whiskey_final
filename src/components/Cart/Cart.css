@@ -1,0 +1,8 @@
+.end {
+  background-image: url(../../assets/image/end.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 40vh;
+  margin-bottom: 70px;
+}

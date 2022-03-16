@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "name": "THE NOTORIOUS B.I.C. - FROZEN",
+      "description": "Combine ingredients in a blender. Add ice and blend. Garnish with coffee grounds and enjoy!",
+      "price": 50,
+      "picture": "https://cdn.shopify.com/s/files/1/0025/8555/9110/articles/Screen_Shot_2021-05-12_at_4.52.45_PM_2160x.png?v=1620852783",
+      "type": "Lemonade",
+      "comments": [
+        {
+          "comment": "Very cool Lemonade",
+          "date": "16.03.2022, 20:50:11"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "THE NOTORIOUS",
+      "description": "Fill glass with ice Top with Proper No. Twelve Whiskey",
+      "price": 120,
+      "picture": "https://cdn.shopify.com/s/files/1/0025/8555/9110/articles/recipes-rocks_2160x.jpg?v=1536109292",
+      "type": "Whiskey",
+      "comments": [
+        {
+          "comment": "Good Whiskey",
+          "date": "16.03.2022, 20:53:26"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "PROPER NEAT",
+      "description": "Pour Proper No. Twelve Whiskey into rocks glass",
+      "price": 100,
+      "picture": "https://cdn.shopify.com/s/files/1/0025/8555/9110/articles/cocktail-2_2160x.jpg?v=1536338751",
+      "type": "Whiskey",
+      "comments": [],
+      "id": 3
+    },
+    {
+      "name": "PROPER & GINGER",
+      "description": "Fill glass with ice Pour Proper No. Twelve over ice Top with ginger ale Stir Garnish with lime wedge",
+      "price": 40,
+      "picture": "https://cdn.shopify.com/s/files/1/0025/8555/9110/articles/recipes-ginger_2160x.jpg?v=1536109358",
+      "type": "Lemonade",
+      "comments": [],
+      "id": 4
+    },
+    {
+      "name": "PROPER & COLA",
+      "description": "Fill glass with ice Pour Proper No. Twelve Whiskey over ice Top with Cola",
+      "price": 45,
+      "picture": "https://cdn.shopify.com/s/files/1/0025/8555/9110/articles/cocktail-1_2160x.jpg?v=1536338699",
+      "type": "Lemonade",
+      "comments": [],
+      "id": 5
+    },
+    {
+      "name": "PROPER PICKLEBACK",
+      "description": "Pour one shot of Proper No. Twelve Whiskey Pour one shot of pickle juice Garnish pickle juice shot with a pickle slice",
+      "price": 90,
+      "picture": "https://cdn.shopify.com/s/files/1/0025/8555/9110/articles/recipes-pickleback_2160x.jpg?v=1536109007",
+      "type": "Whiskey",
+      "comments": [
+        {
+          "comment": "Good Whiskey",
+          "date": "16.03.2022, 23:05:25"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "PROPER MANHATTAN",
+      "description": "Combine Proper No. Twelve Whiskey, sweet vermouth, and bitters into a mixing vessel Add ice and stir Strain into a coupe/martini glass Garnish with a cherry",
+      "price": 85,
+      "picture": "https://cdn.shopify.com/s/files/1/0025/8555/9110/articles/Manhattan_2160x.jpg?v=1536843789",
+      "type": "Whiskey",
+      "comments": [],
+      "id": 7
+    },
+    {
+      "name": "PROPER CRAIC WATER",
+      "description": "Build in highball glass over ice Top w/ Mineral Water Garnish w/ Lime Wedge",
+      "price": 110,
+      "picture": "https://cdn.shopify.com/s/files/1/0025/8555/9110/articles/Screen_Shot_2021-05-12_at_4.52.45_PM_2160x.png?v=1620852783",
+      "type": "Lemonade",
+      "comments": [],
+      "id": 8
+    },
+    {
+      "name": "PROPER SHIRLEY",
+      "description": "Build in highball glass over ice Garnish with Maraschino Cherries (or Lime Wedge)",
+      "price": 90,
+      "picture": "https://cdn.shopify.com/s/files/1/0025/8555/9110/articles/Screen_Shot_2021-05-12_at_4.48.06_PM_0669a008-e24d-4b31-9bf6-9e7e16cbb7ad_2160x.png?v=1620852651",
+      "type": "Lemonade",
+      "comments": [],
+      "id": 9
+    }
+  ]
+}

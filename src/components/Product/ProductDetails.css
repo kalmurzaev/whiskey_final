@@ -1,0 +1,11 @@
+.twocup {
+  background-image: url(../../assets/image/twocup.avif);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 40vh;
+}
+
+.com {
+  background-color: #dad6d62c;
+}

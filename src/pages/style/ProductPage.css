@@ -1,0 +1,29 @@
+.product {
+  background-image: url(../../assets/image/drink.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.pagination {
+  display: flex !important;
+  justify-content: center !important;
+  list-style: none !important;
+  margin-top: 90px !important;
+}
+
+body {
+  background: #0c0c0c2c !important;
+}
+.activeBtn a {
+  margin-right: 10px;
+}
+
+.nextBtn {
+  margin-left: 8px;
+}
+
+.previousBtn {
+  margin-right: 8px;
+}

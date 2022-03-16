@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+#navbar_color {
+  background-color: transparent !important;
+  color: white !important;
+  box-shadow: none;
+}
+#active {
+  background-color: rgb(255, 255, 255) !important;
+  color: black !important;
+}
+
+#navbar_Color {
+  color: white !important;
+}
+#active {
+  color: black !important;
+}

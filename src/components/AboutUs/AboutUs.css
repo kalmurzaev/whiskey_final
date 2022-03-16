@@ -1,0 +1,46 @@
+.aboutUs {
+  background-image: url(../../assets/image/story.webp);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.ourStory {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+  text-align: center;
+}
+
+.twoBoys {
+  background-image: url(../../assets/image/twoBoys.webp);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  max-width: 90vw;
+  margin-bottom: 90px;
+}
+
+.Boys {
+  text-align: center;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: flex-end;
+
+  width: 87vw;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 100px;
+}
+.Boyses {
+  width: 35vw;
+}
+
+.arrow {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
